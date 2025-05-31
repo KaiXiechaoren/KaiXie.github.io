@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &Ph.D. student in University of Electronic Science and Technology of China."
 url                      : https://kaixiechaoren.github.io/KaiXie.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
