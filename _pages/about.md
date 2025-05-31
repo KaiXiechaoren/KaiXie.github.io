@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my master's degree in Electronic Information from Southwest Minzu University in 2023. Currently, I am pursuing a Ph.D. in Computer Science at the University of Electronic Science and Technology of China (UESTC), under the supervision of [Prof. Yanru Zhang] (https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) (National-level young talent). 
+I obtained my master's degree in Electronic Information from Southwest Minzu University in 2023. Currently, I am pursuing a Ph.D. in Computer Science at the University of Electronic Science and Technology of China (UESTC), under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) (National-level young talent). 
 
 My research interests fall into two main areas. The first is evolutionary game theory, in which I have published several papers in leading academic journals. The second is the application of artificial intelligence in power systems, which is also the focus of my doctoral research. In addition, I serve as a reviewer for several academic journals.
 
