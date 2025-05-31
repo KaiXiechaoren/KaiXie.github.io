@@ -16,17 +16,21 @@ Research interests
 ======
 ### Ph.D. Project  
 **Application of Artificial Intelligence in Electricity Market Forecasting and Decision-Making**
-Key topics include:
--Time series forecasting for electricity prices
--Decision-making using reinforcement learning and large language models (LLMs)
+**Key topics include:**
+- Time series forecasting for electricity prices
+  
+- Decision-making using reinforcement learning and large language models (LLMs)
 
-Other Research Focus:
-Mechanism design to promote cooperation in evolutionary game theory, leveraging both traditional mathematical modeling and AI-based approaches.
-Key topics include:
--Population-level game simulation and strategy evolution
--Stability analysis based on control theory
--Interpretable reinforcement learning models for understanding strategic behavior
+### Other Research Focus  
+**Mechanism Design for Promoting Cooperation in Evolutionary Game Theory**  
+Leveraging both traditional mathematical modeling and AI-based approaches.
 
+**Key topics include:**
+- Population-level game simulation and strategy evolution
+  
+- Stability analysis based on control theory
+- 
+- Interpretable reinforcement learning models for understanding strategic behavior
 
 
 Getting started
