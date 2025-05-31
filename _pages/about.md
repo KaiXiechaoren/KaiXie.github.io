@@ -15,7 +15,8 @@ My research interests fall into two main areas. The first is evolutionary game t
 Research interests
 ======
 ### Ph.D. project  
-**Application of AI in Electricity Market*
+**Application of AI in Electricity Market**
+
 It is application-oriented, mainly using various AI methods to handle prediction and decision-making problems in the electricity market.
 
 **Key topics include:**
@@ -25,6 +26,7 @@ It is application-oriented, mainly using various AI methods to handle prediction
 
 ### The other research interest  
 **Mechanism Design for Promoting Cooperation in Evolutionary Game Theory**  
+
 It leans towards theory, mainly using mathematical methods to describe and simulate group games, and is also committed to the research on interpretability based on reinforcement learning.
 
 **Key topics include:**
