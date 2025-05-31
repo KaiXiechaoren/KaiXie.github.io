@@ -27,8 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chengdu, China"
-  employer         : "University of Electronic Science and Technology of China"
-  
+ employer         : |
+  University of Electronic Science
+  Technology of China
   uri              : # URL
   email            : "kaixie6666@163.com" 
 
